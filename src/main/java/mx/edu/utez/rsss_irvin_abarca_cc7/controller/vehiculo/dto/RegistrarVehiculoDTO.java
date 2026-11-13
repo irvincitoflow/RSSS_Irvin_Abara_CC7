@@ -14,6 +14,5 @@ public class RegistrarVehiculoDTO {
     private String modelo;
     @NotBlank
     private String propietario;
-    @NotNull
-    private Boolean activo;
+
 }
